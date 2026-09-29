@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Techskeleton Learning Platform
 
 Testing tools, study material and competitive-exam prep with Free / Premium / Enterprise plans.
@@ -33,3 +34,7 @@ git branch -M main
 git remote add origin https://github.com/<you>/techskeleton-platform.git
 git push -u origin main
 ```
+=======
+# AI-studio
+This is for testing
+>>>>>>> e4e902a766b8c5788f38b7f4af445d66e33fc87a
