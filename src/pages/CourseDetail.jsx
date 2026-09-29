@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { useApp } from '../context/AppContext';
-import { canAccess } from '../lib/access';
+import { canAccess, formatPrice, isSubscription } from '../lib/access';
 
 export default function CourseDetail() {
   const { id } = useParams();
@@ -14,11 +14,16 @@ export default function CourseDetail() {
     return <p role="alert">Course not found. <Link to="/">Back to courses</Link></p>;
   }
   if (!canAccess(user, course)) {
+    const sub = isSubscription(course);
     return (
       <section className="locked">
         <h1>{course.title}</h1>
         <p>{course.summary}</p>
-        <p role="status">This is a premium course.</p>
+        <p role="status">
+          {sub
+            ? `This is a subscription course (${formatPrice(course.price)}).`
+            : 'This course requires a paid plan.'}
+        </p>
         {user
           ? <Link className="btn" to="/pricing">See plans to unlock</Link>
           : <Link className="btn" to="/login">Log in to continue</Link>}

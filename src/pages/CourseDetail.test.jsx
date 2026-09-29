@@ -2,9 +2,9 @@ import { screen, fireEvent } from '@testing-library/react';
 import { renderApp } from '../test/utils';
 
 describe('CourseDetail', () => {
-  it('locks premium courses for free learners', () => {
+  it('locks subscription courses for free learners', () => {
     renderApp('/course/postman-api', 'learner@techskeleton.com');
-    expect(screen.getByText('This is a premium course.')).toBeInTheDocument();
+    expect(screen.getByText(/This is a subscription course/i)).toBeInTheDocument();
     expect(screen.getByRole('link', { name: 'See plans to unlock' })).toBeInTheDocument();
   });
   it('asks guests to log in', () => {

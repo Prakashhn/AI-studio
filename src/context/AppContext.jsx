@@ -11,6 +11,10 @@ export function reducer(s, a) {
     case 'upgrade':
       return { ...s, users: s.users.map((u) => (u.email === s.session ? { ...u, plan: a.plan } : u)) };
     case 'addCourse': return { ...s, courses: [...s.courses, a.course] };
+    case 'editCourse':
+      // Partial update — only fields in `patch` are changed.
+      // The Admin form is responsible for validation (e.g. price > 0 when subscription).
+      return { ...s, courses: s.courses.map((c) => c.id === a.id ? { ...c, ...a.patch } : c) };
     case 'togglePublish':
       return { ...s, courses: s.courses.map((c) => c.id === a.id ? { ...c, status: c.status === 'published' ? 'draft' : 'published' } : c) };
     case 'deleteCourse': return { ...s, courses: s.courses.filter((c) => c.id !== a.id) };

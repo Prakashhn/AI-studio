@@ -27,4 +27,10 @@ describe('Catalog', () => {
     fireEvent.change(screen.getByLabelText('Access'), { target: { value: 'free' } });
     expect(screen.queryByText('API Testing with Postman')).not.toBeInTheDocument();
   });
+  it('filters by subscription only', () => {
+    renderApp('/');
+    fireEvent.change(screen.getByLabelText('Access'), { target: { value: 'subscription' } });
+    expect(screen.queryByText('Selenium WebDriver Essentials')).not.toBeInTheDocument();
+    expect(screen.getByText('API Testing with Postman')).toBeInTheDocument();
+  });
 });
