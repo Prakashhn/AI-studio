@@ -2,8 +2,10 @@ const q = (question, options, answer) => ({ q: question, options, answer });
 // `price` is the per-course subscription price in INR.
 // `price: null`  -> free for everyone
 // `price: number` -> subscription course, chargeable to free-plan users unless they're on premium/enterprise
-const course = (id, title, category, price, status, summary, lessons, quiz) =>
-  ({ id, title, category, price, status, summary, lessons, quiz });
+// `primeDuration` is the subscription access window for premium courses (e.g. "4 weeks").
+// Free courses omit it.
+const course = (id, title, category, price, status, summary, lessons, quiz, primeDuration) =>
+  ({ id, title, category, price, status, summary, lessons, quiz, primeDuration });
 
 export const CATEGORIES = ['Testing Tools', 'Study Material', 'Competitive Exams'];
 
@@ -25,11 +27,13 @@ export const seed = {
       'Build collections, assertions and environments for REST APIs.',
       [{ title: 'Collections', body: 'Group requests by feature and share variables through environments.' },
        { title: 'Assertions', body: 'Check status code, schema and response time in every request.' }],
-      [q('Where do you keep per-environment base URLs?', ['Environment variables', 'Inside each request'], 0)]),
+      [q('Where do you keep per-environment base URLs?', ['Environment variables', 'Inside each request'], 0)],
+      '4 weeks'),
     course('jmeter-perf', 'Performance Testing with JMeter', 'Testing Tools', 599, 'published',
       'Model load, read reports and find bottlenecks.',
       [{ title: 'Thread groups', body: 'A thread group simulates concurrent virtual users.' }],
-      [q('What simulates concurrent users?', ['Thread group', 'Listener'], 0)]),
+      [q('What simulates concurrent users?', ['Thread group', 'Listener'], 0)],
+      '6 weeks'),
     course('testing-fundamentals', 'Software Testing Fundamentals', 'Study Material', null, 'published',
       'Levels, types and techniques every tester should know.',
       [{ title: 'Test levels', body: 'Unit, integration, system and acceptance testing.' }],
@@ -37,13 +41,14 @@ export const seed = {
     course('istqb-foundation', 'ISTQB Foundation Level Prep', 'Competitive Exams', 899, 'published',
       'Syllabus notes and practice questions for the ISTQB CTFL exam.',
       [{ title: 'Seven principles', body: 'Testing shows the presence of defects, not their absence.' }],
-      [q('Testing can prove software has no defects?', ['True', 'False'], 1)]),
+      [q('Testing can prove software has no defects?', ['True', 'False'], 1)],
+      '8 weeks'),
     course('gate-aptitude', 'GATE Aptitude Sprint', 'Competitive Exams', null, 'published',
       'Quick revision of verbal and numerical aptitude.',
       [{ title: 'Ratios', body: 'Convert every ratio to a common unit before comparing.' }],
       [q('2:3 equals which fraction?', ['2/3', '3/2'], 0)]),
     course('cypress-deep-dive', 'Cypress Deep Dive', 'Testing Tools', 749, 'draft',
       'Component and end-to-end testing with Cypress.',
-      [{ title: 'Setup', body: 'Install Cypress and write your first spec.' }], []),
+      [{ title: 'Setup', body: 'Install Cypress and write your first spec.' }], [], '5 weeks'),
   ],
 };
