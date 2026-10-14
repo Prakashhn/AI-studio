@@ -1,0 +1,3123 @@
+{
+  "records": [
+    {
+      "thread_id": "email_20260731090000_robert",
+      "message_id": "20260731090000@zenithcorp.com",
+      "headers": {
+        "subject": "Exploratory Scoping - New Business Unit Interest in IZBA",
+        "from": "Robert Martinez <robert.martinez@zenithcorp.com>",
+        "to": "Michael Torres <michael.torres@izbasaas.com>"
+      },
+      "text": "Hi Michael,\n\nFollowing up on our QBR conversation last week — our newly formed Global Operations business unit has been reviewing the IZBA platform and is very interested in exploring how it could support their workflow. Elizabeth Anderson, our COO, asked me to reach out and initiate some exploratory scoping discussions.\n\nCould we set up a call next week to walk through potential use cases for this new unit? We'd like to understand the platform's capabilities in the context of our expansion plans.\n\nBest,\nRobert",
+      "date": "2026-07-31T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0.4
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "medium",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.78,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.95
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.92,
+        "is_relevant": true,
+        "reason": "C-suite executive initiating exploratory scoping for a new business unit expansion."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260731090000_robert",
+      "message_id": "20260731143000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Exploratory Scoping - New Business Unit Interest in IZBA",
+        "from": "Michael Torres <michael.torres@izbasaas.com>",
+        "to": "Robert Martinez <robert.martinez@zenithcorp.com>"
+      },
+      "text": "Hi Robert,\n\nThat's great news — we're excited to see the Global Operations unit take an interest in the platform. I'd be happy to set up a scoping call next week. I'll coordinate with our team to prepare a tailored overview of relevant use cases.\n\nWould Tuesday or Wednesday work for you? I can also loop in Amanda Foster from our account team to help structure the discussion.\n\nBest,\nMichael",
+      "date": "2026-07-31T14:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "great"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.88,
+          "sentiment_score": 0.5
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "medium",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.72,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.94
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.9,
+        "is_relevant": true,
+        "reason": "Vendor VP responding positively to expansion scoping request and proposing a call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260803100000_patricia",
+      "message_id": "20260803100000@zenithcorp.com",
+      "headers": {
+        "subject": "Initial Scoping Discussion - Global Ops Unit",
+        "from": "Patricia White <patricia.white@zenithcorp.com>",
+        "to": "Amanda Foster <amanda.foster@izbasaas.com>"
+      },
+      "text": "Hi Amanda,\n\nRobert Martinez asked me to coordinate the initial scoping discussion for our new Global Operations business unit. We'd like to review the platform's capabilities in the context of multi-region workflow management and reporting.\n\nCould you share any preliminary documentation or capability matrices that would help us prepare for our call? I want to make sure our team comes ready with informed questions.\n\nThanks,\nPatricia",
+      "date": "2026-08-03T10:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "review"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.85,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Director-level request for preliminary documentation ahead of scoping call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260803111500_UAmandaF",
+      "text": "Hey @patricia.white, just saw your email — happy to pull together some capability docs for the Global Ops team. I'll have a preliminary packet ready by end of day. Do you have a preference for the call format? We can do a screen-share walkthrough or a more structured presentation.",
+      "date": "2026-08-03T11:15:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "message_id": "20260803111500_UAmandaF",
+      "source": "slack",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.8,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.9
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "Vendor manager offering to prepare capability documentation for scoping call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260803111500_UAmandaF",
+      "text": "@amanda.foster a screen-share walkthrough would work fine for us. Our team is fairly hands-on so seeing the platform in action will be more useful than slides. Looking forward to the docs!",
+      "date": "2026-08-03T11:45:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "message_id": "20260803114500_UPatriciaW",
+      "source": "slack",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "fine"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.82,
+        "is_relevant": true,
+        "reason": "Customer confirming demo format preference for the scoping call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260803100000_patricia",
+      "message_id": "20260803150000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Initial Scoping Discussion - Global Ops Unit",
+        "from": "Amanda Foster <amanda.foster@izbasaas.com>",
+        "to": "Patricia White <patricia.white@zenithcorp.com>"
+      },
+      "text": "Hi Patricia,\n\nI received your note and have attached a preliminary capability matrix along with a one-page overview of multi-region workflow features. I think the screen-share format you mentioned on Slack will work perfectly.\n\nFor the call, I'd suggest we cover: (1) current workflow pain points, (2) platform capabilities mapped to those needs, (3) integration touchpoints with your existing systems. Does that agenda structure work for you?\n\nThanks,\nAmanda",
+      "date": "2026-08-03T15:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "received"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.83,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Vendor sharing preliminary documentation and proposing call agenda."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260804093000_james",
+      "message_id": "20260804093000@zenithcorp.com",
+      "headers": {
+        "subject": "Expansion Interest from Global Operations BU",
+        "from": "James Taylor <james.taylor@zenithcorp.com>",
+        "to": "Nina Sales <sales@izbasaas.com>"
+      },
+      "text": "Hi Nina,\n\nOur team was impressed by the ROI metrics shared during the QBR, and the new Global Operations unit is keen to explore an expansion of our current IZBA footprint. We're thinking about adding approximately 40-50 seats for this new unit.\n\nCan you walk us through what the scoping process looks like for an expansion of this size? We want to make sure we understand the timeline and any prerequisites before presenting to our internal stakeholders.\n\nBest,\nJames",
+      "date": "2026-08-04T09:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ],
+        "text": "\"Nina Sales\" <sales@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "impressed"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.89,
+          "sentiment_score": 0.5
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "medium",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.8,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.96
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.93,
+        "is_relevant": true,
+        "reason": "VP expressing expansion interest with specific seat count and requesting scoping process details."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260804093000_james",
+      "message_id": "20260804130000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Expansion Interest from Global Operations BU",
+        "from": "Nina Sales <sales@izbasaas.com>",
+        "to": "James Taylor <james.taylor@zenithcorp.com>"
+      },
+      "text": "Hi James,\n\nThanks for reaching out — the interest from the Global Ops unit is a natural next step after the strong QBR results. For an expansion of 40-50 seats, the typical scoping process involves an initial discovery call, a tailored demo, and a brief needs assessment to map features to your workflow.\n\nI'd estimate the scoping phase takes about 2-3 weeks depending on stakeholder availability. I can prepare a preliminary timeline and share it with you and Patricia before our next conversation.\n\nBest,\nNina",
+      "date": "2026-08-04T13:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ],
+        "text": "\"Nina Sales\" <sales@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.8,
+          "sentiment_score": 0.3
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "weak",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.7,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.94
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.89,
+        "is_relevant": true,
+        "reason": "Vendor outlining scoping process and timeline for a 40-50 seat expansion."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260805100000_UJamesT",
+      "text": "Hey @nina.sales, quick update on our end — I've spoken with Christopher Harris who'll be the technical lead for the Global Ops evaluation. He's available next Tuesday or Thursday for the discovery call. Let me know which works better for your team.",
+      "date": "2026-08-05T10:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenPart01",
+        "channel_name": "#zenith-partnership"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UNinaS",
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UJamesT",
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ]
+      },
+      "message_id": "20260805100000_UJamesT",
+      "source": "slack",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "update"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.85,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "VP providing scheduling availability for the discovery call with technical lead."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260805100000_UJamesT",
+      "text": "@james.taylor great — Tuesday works best for us. I'll send a calendar invite for 10 AM EST and include Amanda so she can join from the account side. Looking forward to it!",
+      "date": "2026-08-05T10:30:00.000Z",
+      "headers": {
+        "channel_id": "CZenPart01",
+        "channel_name": "#zenith-partnership"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UJamesT",
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UNinaS",
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ]
+      },
+      "message_id": "20260805103000_UNinaS",
+      "source": "slack",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "great"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.87,
+          "sentiment_score": 0.4
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.84,
+        "is_relevant": true,
+        "reason": "Vendor confirming discovery call scheduling and including account team."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260803100000_patricia",
+      "message_id": "20260805140000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Initial Scoping Discussion - Global Ops Unit",
+        "from": "Patricia White <patricia.white@zenithcorp.com>",
+        "to": "Amanda Foster <amanda.foster@izbasaas.com>"
+      },
+      "text": "Hi Amanda,\n\nThanks for the capability matrix — I've shared it with our team and we'd like to review it more thoroughly before the call. One initial question: does the multi-region reporting module support custom dashboard creation per business unit? That's a key requirement for Global Ops.\n\nAlso, could you confirm whether the scoping call will include a live demo or primarily be a discussion format?\n\nThanks,\nPatricia",
+      "date": "2026-08-05T14:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "review"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "Customer asking specific capability questions ahead of scoping call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260806090000_christopher",
+      "message_id": "20260806090000@zenithcorp.com",
+      "headers": {
+        "subject": "Technical Demo Request - Global Ops Use Cases",
+        "from": "Christopher Harris <christopher.harris@zenithcorp.com>",
+        "to": "Jessica Park <jessica.park@izbasaas.com>"
+      },
+      "text": "Hi Jessica,\n\nJames Taylor mentioned you'd be the right person to speak with about a technical demo for our Global Operations unit. We're specifically interested in seeing how the platform handles cross-regional data synchronization and whether there are any API limitations we should be aware of.\n\nWould you have availability sometime next week for a 60-minute session? I can prepare a list of specific scenarios we'd like to see demonstrated.\n\nBest,\nChristopher",
+      "date": "2026-08-06T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "jessica.park@izbasaas.com",
+            "name": "Jessica Park"
+          }
+        ],
+        "text": "\"Jessica Park\" <jessica.park@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ],
+        "text": "\"Christopher Harris\" <christopher.harris@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.8,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Technical lead requesting a platform demo focused on cross-regional data synchronization."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260806090000_christopher",
+      "message_id": "20260806113000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Technical Demo Request - Global Ops Use Cases",
+        "from": "Jessica Park <jessica.park@izbasaas.com>",
+        "to": "Christopher Harris <christopher.harris@zenithcorp.com>"
+      },
+      "text": "Hi Christopher,\n\nThose are excellent questions — cross-regional data sync is one of our core strengths, and I'd be happy to walk you through the API capabilities as well. I have availability on Wednesday at 2 PM or Thursday at 10 AM next week.\n\nIf you can send over your scenario list beforehand, I'll tailor the demo environment to match your use cases as closely as possible. That way we can make the most of the 60 minutes.\n\nBest,\nJessica",
+      "date": "2026-08-06T11:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ],
+        "text": "\"Christopher Harris\" <christopher.harris@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "jessica.park@izbasaas.com",
+            "name": "Jessica Park"
+          }
+        ],
+        "text": "\"Jessica Park\" <jessica.park@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "excellent"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.88,
+          "sentiment_score": 0.4
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.94
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Vendor responding to demo request with scheduling options and offering tailored demo."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260806150000_UChrisH",
+      "text": "Hey @jessica.park, Wednesday at 2 PM works for me. I'll send over the scenario list by Monday end of day so you have time to prep. One thing — would it be possible to include a quick walkthrough of the admin console? Our ops team will need to manage user permissions across regions.",
+      "date": "2026-08-06T15:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenTech01",
+        "channel_name": "#zenith-technical"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UJessP",
+            "address": "jessica.park@izbasaas.com",
+            "name": "Jessica Park"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UChrisH",
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ]
+      },
+      "message_id": "20260806150000_UChrisH",
+      "source": "slack",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.9
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "Customer confirming demo time and requesting admin console walkthrough."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260806150000_UChrisH",
+      "text": "@christopher.harris absolutely, the admin console walkthrough is part of our standard demo flow so that works out perfectly. Looking forward to the scenario list on Monday!",
+      "date": "2026-08-07T09:30:00.000Z",
+      "headers": {
+        "channel_id": "CZenTech01",
+        "channel_name": "#zenith-technical"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UChrisH",
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UJessP",
+            "address": "jessica.park@izbasaas.com",
+            "name": "Jessica Park"
+          }
+        ]
+      },
+      "message_id": "20260807093000_UJessP",
+      "source": "slack",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "standard"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.82,
+        "is_relevant": true,
+        "reason": "Vendor confirming admin console walkthrough is included in standard demo."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260807140000_elizabeth",
+      "message_id": "20260807140000@zenithcorp.com",
+      "headers": {
+        "subject": "Strategic Alignment Discussion - New BU Expansion",
+        "from": "Elizabeth Anderson <elizabeth.anderson@zenithcorp.com>",
+        "to": "Michael Torres <michael.torres@izbasaas.com>"
+      },
+      "text": "Hi Michael,\n\nI wanted to reach out directly regarding the Global Operations expansion discussion. From a strategic perspective, we see significant value in consolidating our operational tooling onto IZBA, and the early ROI data from our current deployment supports that direction.\n\nI'd like to understand how IZBA typically structures expansion agreements for new business units — specifically around phased rollout options and whether there's flexibility in the scoping timeline to accommodate our internal governance process.\n\nCould we schedule a brief executive-level conversation in the coming week?\n\nBest,\nElizabeth",
+      "date": "2026-08-07T14:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.85,
+          "sentiment_score": 0.5
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "strong",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.85,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.96
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.94,
+        "is_relevant": true,
+        "reason": "COO requesting executive-level discussion on expansion agreement structure and phased rollout."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260807140000_elizabeth",
+      "message_id": "20260807160000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Strategic Alignment Discussion - New BU Expansion",
+        "from": "Michael Torres <michael.torres@izbasaas.com>",
+        "to": "Elizabeth Anderson <elizabeth.anderson@zenithcorp.com>"
+      },
+      "text": "Hi Elizabeth,\n\nThank you for reaching out directly — I appreciate the strategic perspective. Our teams have been working well together on the current deployment, and I see a natural fit for the Global Ops unit.\n\nWe absolutely offer phased rollout options for new business units, and the scoping timeline can be tailored to accommodate your governance process. I'd be happy to discuss specifics in an executive conversation. Would Friday morning work for you? I can prepare a one-page summary of our expansion framework beforehand.\n\nBest,\nMichael",
+      "date": "2026-08-07T16:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          },
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>, \"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "working well"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.89,
+          "sentiment_score": 0.5
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "medium",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.75,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.95
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.91,
+        "is_relevant": true,
+        "reason": "Vendor VP confirming phased rollout options and proposing executive call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260810090000_patricia",
+      "message_id": "20260810090000@zenithcorp.com",
+      "headers": {
+        "subject": "Demo Agenda and Scoping Parameters",
+        "from": "Patricia White <patricia.white@zenithcorp.com>",
+        "to": "Amanda Foster <amanda.foster@izbasaas.com>"
+      },
+      "text": "Hi Amanda,\n\nI've circulated the capability matrix internally and collected some initial feedback. Our team would like to review the following areas during the scoping call:\n\n1. Multi-region dashboard configuration\n2. Role-based access for cross-functional teams\n3. Data export and audit trail capabilities\n4. Integration with our existing ERP system\n\nCould you confirm whether all of these fall within the standard scoping scope, or if any require a separate specialized session?\n\nThanks,\nPatricia",
+      "date": "2026-08-10T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "review"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.85,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Director providing structured scoping agenda items for the upcoming call."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260810090000_patricia",
+      "message_id": "20260810103000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Demo Agenda and Scoping Parameters",
+        "from": "Amanda Foster <amanda.foster@izbasaas.com>",
+        "to": "Patricia White <patricia.white@zenithcorp.com>"
+      },
+      "text": "Hi Patricia,\n\nItems 1-3 are well within our standard scoping scope and we can cover them comprehensively during the call. For the ERP integration discussion, I'd recommend we bring in Alex Product from our product team — he can speak to the specific integration architecture and any prerequisites.\n\nWould you be comfortable extending the call to 90 minutes to accommodate all four topics, or would you prefer to split the ERP integration into a follow-up session?\n\nBest,\nAmanda",
+      "date": "2026-08-10T10:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "Vendor confirming agenda coverage and suggesting product team involvement for ERP integration."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260810140000_michelle",
+      "message_id": "20260810140000@zenithcorp.com",
+      "headers": {
+        "subject": "Product Capability Questions - Global Ops Workflow",
+        "from": "Michelle Clark <michelle.clark@zenithcorp.com>",
+        "to": "Alex Product <product@izbasaas.com>"
+      },
+      "text": "Hi Alex,\n\nChristopher Harris suggested I reach out with some product-level questions ahead of our demo next week. Our Global Ops team is particularly interested in understanding the workflow automation builder — specifically whether it supports conditional logic branching based on regional attributes.\n\nWe're also curious about the API rate limits for bulk data operations, as we'll need to sync approximately 50,000 records during initial setup.\n\nThanks,\nMichelle",
+      "date": "2026-08-10T14:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "product@izbasaas.com",
+            "name": "Alex Product"
+          }
+        ],
+        "text": "\"Alex Product\" <product@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michelle.clark@zenithcorp.com",
+            "name": "Michelle Clark"
+          }
+        ],
+        "text": "\"Michelle Clark\" <michelle.clark@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.8,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "IC-level product questions about workflow automation and API limits ahead of demo."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260810140000_michelle",
+      "message_id": "20260810153000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Product Capability Questions - Global Ops Workflow",
+        "from": "Alex Product <product@izbasaas.com>",
+        "to": "Michelle Clark <michelle.clark@zenithcorp.com>"
+      },
+      "text": "Hi Michelle,\n\nI'm impressed with the depth of your questions — it tells me your team is thinking about this the right way. Yes, the workflow automation builder fully supports conditional logic branching based on regional attributes, including timezone, locale, and custom regional tags.\n\nRegarding API rate limits, our enterprise tier supports up to 100,000 records per bulk operation with no throttling. I'll cover both of these in detail during the demo and can share our API documentation separately if that would be helpful.\n\nBest,\nAlex",
+      "date": "2026-08-10T15:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michelle.clark@zenithcorp.com",
+            "name": "Michelle Clark"
+          }
+        ],
+        "text": "\"Michelle Clark\" <michelle.clark@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "product@izbasaas.com",
+            "name": "Alex Product"
+          }
+        ],
+        "text": "\"Alex Product\" <product@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "impressed"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.88,
+          "sentiment_score": 0.4
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Product lead answering detailed capability questions about workflow automation and API limits."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260811090000_UPatriciaW",
+      "text": "Hey @amanda.foster, quick update — our team has agreed to extend the scoping call to 90 minutes so we can cover all four topics including the ERP integration. Christopher will join from our side along with Michelle who has some product-level questions.",
+      "date": "2026-08-11T09:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "message_id": "20260811090000_UPatriciaW",
+      "source": "slack",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "update"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "Customer confirming extended call duration and listing attendees for scoping discussion."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260811090000_UPatriciaW",
+      "text": "@patricia.white perfect, I'll update the calendar invite to 90 minutes and make sure Alex Product joins for the ERP integration portion. See you all on Wednesday!",
+      "date": "2026-08-11T09:30:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "message_id": "20260811093000_UAmandaF",
+      "source": "slack",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.9
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.83,
+        "is_relevant": true,
+        "reason": "Vendor confirming updated call duration and product team attendance."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260804093000_james",
+      "message_id": "20260811130000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Expansion Interest from Global Operations BU",
+        "from": "James Taylor <james.taylor@zenithcorp.com>",
+        "to": "Nina Sales <sales@izbasaas.com>"
+      },
+      "text": "Hi Nina,\n\nI received the preliminary timeline you sent over — it looks reasonable overall. One concern: the 2-3 week scoping window might be tight given our internal governance review cycle, which typically adds 5-7 business days for any new vendor expenditure approval.\n\nWould it be possible to begin the technical scoping activities in parallel with our internal approval process? That way we're not losing time on the critical path.\n\nBest,\nJames",
+      "date": "2026-08-11T13:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ],
+        "text": "\"Nina Sales\" <sales@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "received"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.83,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.89,
+        "is_relevant": true,
+        "reason": "VP raising timeline concern about governance review and requesting parallel scoping."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260804093000_james",
+      "message_id": "20260811150000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Expansion Interest from Global Operations BU",
+        "from": "Nina Sales <sales@izbasaas.com>",
+        "to": "James Taylor <james.taylor@zenithcorp.com>"
+      },
+      "text": "Hi James,\n\nAbsolutely — we can run the technical scoping in parallel with your internal approval process. There's no dependency there from our side. The demo and capability assessment can proceed independently, and we'd only need the formal approval in place before moving to any contracting stage.\n\nI'll note this in the timeline and adjust the milestones accordingly. Let me know if there's anything else I can do to help streamline the process on our end.\n\nBest,\nNina",
+      "date": "2026-08-11T15:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ],
+        "text": "\"Nina Sales\" <sales@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Vendor confirming parallel scoping is possible and adjusting timeline accordingly."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260812093000_christopher",
+      "message_id": "20260812093000@zenithcorp.com",
+      "headers": {
+        "subject": "Security Questionnaire - Initial Scoping for New BU",
+        "from": "Christopher Harris <christopher.harris@zenithcorp.com>",
+        "to": "Rachel Compliance <compliance@izbasaas.com>"
+      },
+      "text": "Hi Rachel,\n\nAs part of our scoping process for the Global Operations expansion, our security team has requested that we complete a vendor security questionnaire. I've attached the standard form we use for new business unit deployments.\n\nCould you coordinate with your team to complete the relevant sections? Our infosec team will need this before we can proceed to the formal evaluation stage. Let me know if you have any questions about the form.\n\nBest,\nChristopher",
+      "date": "2026-08-12T09:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "compliance@izbasaas.com",
+            "name": "Rachel Compliance"
+          }
+        ],
+        "text": "\"Rachel Compliance\" <compliance@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ],
+        "text": "\"Christopher Harris\" <christopher.harris@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.9
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Customer submitting security questionnaire as part of scoping process for new BU."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260812093000_christopher",
+      "message_id": "20260812110000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Security Questionnaire - Initial Scoping for New BU",
+        "from": "Rachel Compliance <compliance@izbasaas.com>",
+        "to": "Christopher Harris <christopher.harris@zenithcorp.com>"
+      },
+      "text": "Hi Christopher,\n\nThanks for sending the questionnaire — this is a standard part of our process and I'm happy to complete it. I've reviewed the form and can have our responses back to you within 3-4 business days.\n\nI'll also include our SOC 2 Type II report and data processing addendum as supplementary documentation, which should address most of the infosec team's initial questions. Let me know if there's a specific section that's particularly urgent.\n\nBest,\nRachel",
+      "date": "2026-08-12T11:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ],
+        "text": "\"Christopher Harris\" <christopher.harris@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "compliance@izbasaas.com",
+            "name": "Rachel Compliance"
+          }
+        ],
+        "text": "\"Rachel Compliance\" <compliance@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "standard"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "Compliance lead acknowledging security questionnaire and committing to response timeline."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260805100000_UJamesT",
+      "text": "@nina.sales following up on the parallel scoping approach — our governance committee meets Thursday so I should have a clearer picture of the approval timeline by end of week. I'll keep you posted.",
+      "date": "2026-08-12T14:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenPart01",
+        "channel_name": "#zenith-partnership"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UNinaS",
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UJamesT",
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ]
+      },
+      "message_id": "20260812140000_UJamesT",
+      "source": "slack",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "VP providing update on internal governance committee timeline for approval."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260813090000_patricia",
+      "message_id": "20260813090000@zenithcorp.com",
+      "headers": {
+        "subject": "Scoping Document Draft - Global Ops Expansion",
+        "from": "Patricia White <patricia.white@zenithcorp.com>",
+        "to": "Amanda Foster <amanda.foster@izbasaas.com>"
+      },
+      "text": "Hi Amanda,\n\nFollowing our scoping call yesterday, I've put together a draft scoping document that captures the key requirements we discussed. It covers the four agenda areas plus some additional notes on data residency requirements for our APAC operations.\n\nCould you review this and let me know if anything is missing from IZBA's perspective? I'd like to get this finalized before we present to our internal stakeholders for approval.\n\nThanks,\nPatricia",
+      "date": "2026-08-13T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0.3
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "medium",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.76,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.94
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.91,
+        "is_relevant": true,
+        "reason": "Director sharing draft scoping document for review before internal stakeholder presentation."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260813090000_patricia",
+      "message_id": "20260813103000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Scoping Document Draft - Global Ops Expansion",
+        "from": "Amanda Foster <amanda.foster@izbasaas.com>",
+        "to": "Patricia White <patricia.white@zenithcorp.com>"
+      },
+      "text": "Hi Patricia,\n\nThis is a really smooth process so far — the draft looks comprehensive and well-structured. I have a few minor additions around the API integration prerequisites and some notes on the data residency requirements for APAC that I'd like to add.\n\nI'll send back a marked-up version by end of day tomorrow. Once we're aligned on this document, it should serve as a solid foundation for the internal approval conversation. Great work pulling this together so quickly.\n\nBest,\nAmanda",
+      "date": "2026-08-13T10:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "smooth"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.88,
+          "sentiment_score": 0.4
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "weak",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.68,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.89,
+        "is_relevant": true,
+        "reason": "Vendor praising scoping document and committing to return marked-up version."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260813140000_andrew",
+      "message_id": "20260813140000@zenithcorp.com",
+      "headers": {
+        "subject": "Password Reset Issue",
+        "from": "Andrew Lewis <andrew.lewis@zenithcorp.com>",
+        "to": "Mike Support <support@izbasaas.com>"
+      },
+      "text": "Hi Mike,\n\nI'm having trouble resetting my password on the IZBA platform — the reset link keeps expiring before I can complete the process. I've tried three times this morning and each time I get an error saying the token has expired.\n\nCould you help me get this resolved? I need access to pull some reports for our current deployment.\n\nThanks,\nAndrew",
+      "date": "2026-08-13T14:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "support@izbasaas.com",
+            "name": "Mike Support"
+          }
+        ],
+        "text": "\"Mike Support\" <support@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "andrew.lewis@zenithcorp.com",
+            "name": "Andrew Lewis"
+          }
+        ],
+        "text": "\"Andrew Lewis\" <andrew.lewis@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "unclassified",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.75,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "unclassified",
+          "confidence": 0.6
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.15,
+        "is_relevant": false,
+        "reason": "Routine password reset issue unrelated to expansion scoping or pre-sales discussions."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260813140000_andrew",
+      "message_id": "20260813150000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Password Reset Issue",
+        "from": "Mike Support <support@izbasaas.com>",
+        "to": "Andrew Lewis <andrew.lewis@zenithcorp.com>"
+      },
+      "text": "Hi Andrew,\n\nI received your request — sorry about the trouble with the password reset. This can happen if there's a clock sync issue between your browser and our servers. I've manually triggered a new reset link from the admin side that should remain valid for 30 minutes.\n\nPlease try using this link in an incognito window to avoid any cached session conflicts. Let me know if it works or if you're still seeing the token expiration error.\n\nBest,\nMike",
+      "date": "2026-08-13T15:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "andrew.lewis@zenithcorp.com",
+            "name": "Andrew Lewis"
+          }
+        ],
+        "text": "\"Andrew Lewis\" <andrew.lewis@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "support@izbasaas.com",
+            "name": "Mike Support"
+          }
+        ],
+        "text": "\"Mike Support\" <support@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "unclassified",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "received"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.78,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "unclassified",
+          "confidence": 0.55
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.12,
+        "is_relevant": false,
+        "reason": "Support response to routine password reset issue, unrelated to expansion scoping."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260731090000_robert",
+      "message_id": "20260814090000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Exploratory Scoping - New Business Unit Interest in IZBA",
+        "from": "Robert Martinez <robert.martinez@zenithcorp.com>",
+        "to": "Michael Torres <michael.torres@izbasaas.com>"
+      },
+      "text": "Hi Michael,\n\nQuick update on our end — Elizabeth and I have aligned on the strategic direction, and Patricia's draft scoping document is circulating internally for feedback. The overall sentiment from our leadership is positive, though we're still working through the governance approval timeline.\n\nI expect we'll have a clearer picture on the approval front by late next week. In the meantime, the technical scoping with Christopher's team is progressing well.\n\nBest,\nRobert",
+      "date": "2026-08-14T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "update"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        },
+        {
+          "category": "escalation_signals",
+          "subcategory": "informational",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.7,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.9,
+        "is_relevant": true,
+        "reason": "C-suite providing status update on internal alignment and governance approval timeline."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260731090000_robert",
+      "message_id": "20260814110000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Exploratory Scoping - New Business Unit Interest in IZBA",
+        "from": "Michael Torres <michael.torres@izbasaas.com>",
+        "to": "Robert Martinez <robert.martinez@zenithcorp.com>"
+      },
+      "text": "Hi Robert,\n\nThanks for the update — it's encouraging to hear the leadership sentiment is positive. We're happy to support the governance process in any way needed, whether that's providing additional documentation or joining a call with your approval committee.\n\nOn our side, Amanda is finalizing her feedback on the scoping document, and the technical demo with Christopher's team went well from what I understand. Things are moving in the right direction.\n\nBest,\nMichael",
+      "date": "2026-08-14T11:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Vendor VP offering support for governance process and confirming scoping progress."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260817093000_elizabeth",
+      "message_id": "20260817093000@zenithcorp.com",
+      "headers": {
+        "subject": "Follow-up on Scoping - Internal Stakeholder Alignment",
+        "from": "Elizabeth Anderson <elizabeth.anderson@zenithcorp.com>",
+        "to": "Michael Torres <michael.torres@izbasaas.com>"
+      },
+      "text": "Hi Michael,\n\nI need to review the scoping document with our finance and operations stakeholders before we can move to the formal approval stage. We've scheduled an internal review session for this Thursday, and I'd like to bring a summary of the phased rollout options you mentioned.\n\nCould you share a concise overview of the expansion framework — something I can present in 10-15 minutes to a non-technical audience? Our CFO will be in the room, so cost structure clarity is important.\n\nBest,\nElizabeth",
+      "date": "2026-08-17T09:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "review"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        },
+        {
+          "category": "risk_indicators",
+          "subcategory": "relationships_engagement_risk",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.72,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.94
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.9,
+        "is_relevant": true,
+        "reason": "COO requesting executive summary for internal stakeholder review including CFO."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260817093000_elizabeth",
+      "message_id": "20260817110000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Follow-up on Scoping - Internal Stakeholder Alignment",
+        "from": "Michael Torres <michael.torres@izbasaas.com>",
+        "to": "Elizabeth Anderson <elizabeth.anderson@zenithcorp.com>"
+      },
+      "text": "Hi Elizabeth,\n\nAbsolutely — I'll prepare a concise one-page executive summary that covers the phased rollout framework, cost structure at each phase, and the expected ROI trajectory based on your current deployment metrics. I'll have it to you by Wednesday morning so you have time to review before Thursday's session.\n\nIf it would be helpful, I'm also available to join the Thursday call briefly to answer any questions directly from your CFO. Just let me know what works best.\n\nBest,\nMichael",
+      "date": "2026-08-17T11:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Vendor VP preparing executive summary with cost structure for CFO presentation."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260817140000_UPatriciaW",
+      "text": "Hey @amanda.foster, any updates on the marked-up scoping document? I'd like to incorporate your feedback before Elizabeth's stakeholder review on Thursday.",
+      "date": "2026-08-17T14:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "message_id": "20260817140000_UPatriciaW",
+      "source": "slack",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "Director following up on vendor's marked-up scoping document for internal review."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260817140000_UPatriciaW",
+      "text": "@patricia.white great progress — I'm finalizing the last two sections on API prerequisites and APAC data residency. Should have it in your inbox by end of day tomorrow. The additions are mostly clarifications, nothing that changes the core scope.",
+      "date": "2026-08-17T14:30:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "message_id": "20260817143000_UAmandaF",
+      "source": "slack",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "great"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.86,
+          "sentiment_score": 0.3
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "Vendor confirming scoping document feedback will be delivered next day."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260818090000_christopher",
+      "message_id": "20260818090000@zenithcorp.com",
+      "headers": {
+        "subject": "Follow-up Questions After Demo - Integration Architecture",
+        "from": "Christopher Harris <christopher.harris@zenithcorp.com>",
+        "to": "Jessica Park <jessica.park@izbasaas.com>"
+      },
+      "text": "Hi Jessica,\n\nThanks for the demo yesterday — the admin console walkthrough was particularly helpful. I have a couple of follow-up questions about the integration architecture:\n\n1. For the ERP integration, do you support webhook-based event notifications or is it strictly polling-based?\n2. Is there a sandbox environment we can access to prototype the integration before committing to a full deployment?\n\nThese answers will help me prepare a technical feasibility summary for our internal review.\n\nBest,\nChristopher",
+      "date": "2026-08-18T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "jessica.park@izbasaas.com",
+            "name": "Jessica Park"
+          }
+        ],
+        "text": "\"Jessica Park\" <jessica.park@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ],
+        "text": "\"Christopher Harris\" <christopher.harris@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Technical lead asking follow-up integration architecture questions after demo."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260818090000_christopher",
+      "message_id": "20260818103000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Follow-up Questions After Demo - Integration Architecture",
+        "from": "Jessica Park <jessica.park@izbasaas.com>",
+        "to": "Christopher Harris <christopher.harris@zenithcorp.com>"
+      },
+      "text": "Hi Christopher,\n\nGlad the demo was useful! To answer your questions:\n\n1. We support both webhook-based and polling-based integration — webhooks are recommended for real-time sync, and we can configure them per event type.\n2. Yes, we provide a sandbox environment for all enterprise scoping engagements. I can provision access for your team once we have the scoping document finalized.\n\nThat timeline works fine for us — just let me know when you're ready and I'll get the sandbox credentials set up.\n\nBest,\nJessica",
+      "date": "2026-08-18T10:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "christopher.harris@zenithcorp.com",
+            "name": "Christopher Harris"
+          }
+        ],
+        "text": "\"Christopher Harris\" <christopher.harris@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "jessica.park@izbasaas.com",
+            "name": "Jessica Park"
+          }
+        ],
+        "text": "\"Jessica Park\" <jessica.park@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "fine"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "Vendor answering integration architecture questions and confirming sandbox availability."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260819090000_james",
+      "message_id": "20260819090000@zenithcorp.com",
+      "headers": {
+        "subject": "Internal Approval Delay - Scoping Timeline Concerns",
+        "from": "James Taylor <james.taylor@zenithcorp.com>",
+        "to": "Nina Sales <sales@izbasaas.com>"
+      },
+      "text": "Hi Nina,\n\nI want to flag a potential timeline concern. Our governance committee meeting was postponed from Thursday to next Monday due to a scheduling conflict with our CFO. I'm a bit frustrated with the delay since it pushes our formal approval window back by several days.\n\nThat said, this is purely process friction — the interest and intent from our leadership team hasn't changed. I just want to set expectations that the approval milestone will likely slip by about a week.\n\nBest,\nJames",
+      "date": "2026-08-19T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ],
+        "text": "\"Nina Sales\" <sales@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "negative",
+          "keywords_matched": [
+            "frustrated"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.86,
+          "sentiment_score": -0.4
+        },
+        {
+          "category": "risk_indicators",
+          "subcategory": "relationships_engagement_risk",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.75,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.9,
+        "is_relevant": true,
+        "reason": "VP flagging internal approval delay due to governance committee postponement."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260819090000_james",
+      "message_id": "20260819110000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Internal Approval Delay - Scoping Timeline Concerns",
+        "from": "Nina Sales <sales@izbasaas.com>",
+        "to": "James Taylor <james.taylor@zenithcorp.com>"
+      },
+      "text": "Hi James,\n\nThanks for the transparency — I completely understand that these governance scheduling conflicts happen. A one-week slip is manageable from our side, and since the technical scoping is progressing in parallel, we're not losing much momentum.\n\nI'll adjust our internal timeline to reflect the new approval window. If there's anything we can do to support the committee meeting on Monday — additional documentation, a brief FAQ, or even joining the call — just say the word.\n\nBest,\nNina",
+      "date": "2026-08-19T11:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ],
+        "text": "\"Nina Sales\" <sales@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Vendor acknowledging approval delay and offering support for rescheduled committee meeting."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260805100000_UJamesT",
+      "text": "@nina.sales update on the approval front — the governance committee is now confirmed for Monday at 2 PM. Elizabeth will be presenting the scoping summary along with Michael's executive overview. I'll let you know how it goes.",
+      "date": "2026-08-19T14:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenPart01",
+        "channel_name": "#zenith-partnership"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UNinaS",
+            "address": "sales@izbasaas.com",
+            "name": "Nina Sales"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UJamesT",
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ]
+      },
+      "message_id": "20260819140000_UJamesT",
+      "source": "slack",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "update"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "VP confirming rescheduled governance committee meeting and listing presenters."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260820093000_patricia",
+      "message_id": "20260820093000@zenithcorp.com",
+      "headers": {
+        "subject": "Revised Scoping Document - Incorporating Feedback",
+        "from": "Patricia White <patricia.white@zenithcorp.com>",
+        "to": "Amanda Foster <amanda.foster@izbasaas.com>"
+      },
+      "text": "Hi Amanda,\n\nI've incorporated your marked-up feedback into the scoping document. The changes around API prerequisites and APAC data residency are now reflected in sections 3 and 5 respectively. I also added a brief risk mitigation section based on Christopher's technical feasibility notes.\n\nThis should be the final version we present to the governance committee on Monday. Let me know if you spot anything else that needs adjustment — otherwise, I'll consider this locked.\n\nThanks,\nPatricia",
+      "date": "2026-08-20T09:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.94
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.9,
+        "is_relevant": true,
+        "reason": "Director sharing finalized scoping document incorporating vendor feedback for governance review."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260820093000_patricia",
+      "message_id": "20260820110000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Revised Scoping Document - Incorporating Feedback",
+        "from": "Amanda Foster <amanda.foster@izbasaas.com>",
+        "to": "Patricia White <patricia.white@zenithcorp.com>"
+      },
+      "text": "Hi Patricia,\n\nReceived the revised document — I've done a final pass and everything looks good from our side. The risk mitigation section is a nice addition and should address any concerns the governance committee might raise about the technical feasibility.\n\nI'm confident this is ready for Monday's presentation. Wishing you a productive session — we're standing by if any last-minute questions come up.\n\nBest,\nAmanda",
+      "date": "2026-08-20T11:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ],
+        "text": "\"Patricia White\" <patricia.white@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ],
+        "text": "\"Amanda Foster\" <amanda.foster@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "received"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.93
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.88,
+        "is_relevant": true,
+        "reason": "Vendor approving finalized scoping document and expressing confidence for governance review."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260810140000_michelle",
+      "message_id": "20260821090000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Product Capability Questions - Global Ops Workflow",
+        "from": "Michelle Clark <michelle.clark@zenithcorp.com>",
+        "to": "Alex Product <product@izbasaas.com>"
+      },
+      "text": "Hi Alex,\n\nThanks for the detailed responses earlier. I'd like to review the API documentation you mentioned — could you share the link or attach it? Our integration team wants to start mapping out the data flow architecture before the governance meeting on Monday.\n\nAlso, one additional question: does the workflow automation builder support scheduled triggers based on business hours per region? We'd need workflows to fire during specific regional operating windows.\n\nThanks,\nMichelle",
+      "date": "2026-08-21T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "product@izbasaas.com",
+            "name": "Alex Product"
+          }
+        ],
+        "text": "\"Alex Product\" <product@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michelle.clark@zenithcorp.com",
+            "name": "Michelle Clark"
+          }
+        ],
+        "text": "\"Michelle Clark\" <michelle.clark@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [
+            "review"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.84,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.91
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.86,
+        "is_relevant": true,
+        "reason": "IC requesting API documentation and asking about scheduled workflow triggers per region."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260810140000_michelle",
+      "message_id": "20260821103000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Product Capability Questions - Global Ops Workflow",
+        "from": "Alex Product <product@izbasaas.com>",
+        "to": "Michelle Clark <michelle.clark@zenithcorp.com>"
+      },
+      "text": "Hi Michelle,\n\nGreat question — yes, the workflow automation builder fully supports scheduled triggers with per-region business hour configurations. You can define operating windows for each region and workflows will only fire within those windows.\n\nI've attached the API documentation as a PDF. Pages 12-18 cover the workflow automation endpoints specifically, and page 24 has the regional configuration schema. Let me know if your integration team needs anything else.\n\nBest,\nAlex",
+      "date": "2026-08-21T10:30:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michelle.clark@zenithcorp.com",
+            "name": "Michelle Clark"
+          }
+        ],
+        "text": "\"Michelle Clark\" <michelle.clark@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "product@izbasaas.com",
+            "name": "Alex Product"
+          }
+        ],
+        "text": "\"Alex Product\" <product@izbasaas.com>"
+      },
+      "cc": {
+        "value": [],
+        "text": ""
+      },
+      "source": "email",
+      "cluster_topic": "pre_sales_and_demo",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "great"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.87,
+          "sentiment_score": 0.3
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "pre_sales_and_demo",
+          "confidence": 0.92
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.87,
+        "is_relevant": true,
+        "reason": "Product lead confirming regional scheduled triggers and sharing API documentation."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260824090000_robert",
+      "message_id": "20260824090000@zenithcorp.com",
+      "headers": {
+        "subject": "Scoping Wrap-up and Next Steps Discussion",
+        "from": "Robert Martinez <robert.martinez@zenithcorp.com>",
+        "to": "Michael Torres <michael.torres@izbasaas.com>"
+      },
+      "text": "Hi Michael,\n\nThe governance committee meeting went well this afternoon — there's strong support for moving forward with the Global Operations expansion. The scoping document was well-received, and the CFO appreciated the phased cost structure in your executive summary.\n\nWe'd like to schedule a wrap-up discussion to talk through next steps, including what a pilot proposal might look like for this new unit. Would sometime this week or early next week work for you and the team?\n\nBest,\nRobert",
+      "date": "2026-08-24T09:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          },
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>, \"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.88,
+          "sentiment_score": 0.6
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "strong",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.85,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.96
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.94,
+        "is_relevant": true,
+        "reason": "C-suite reporting successful governance review and requesting next steps discussion including pilot proposal."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "email_20260824090000_robert",
+      "message_id": "20260824110000@zenithcorp.com",
+      "headers": {
+        "subject": "Re: Scoping Wrap-up and Next Steps Discussion",
+        "from": "Michael Torres <michael.torres@izbasaas.com>",
+        "to": "Robert Martinez <robert.martinez@zenithcorp.com>"
+      },
+      "text": "Hi Robert,\n\nExcellent news — I'm thrilled the governance committee responded positively. The phased approach clearly resonated, and I think a pilot proposal is the natural next step.\n\nI can put together a preliminary pilot framework that aligns with the scoping document. Would Friday at 11 AM work for a wrap-up call? I'll have Amanda, Nina, and Jessica join so we can cover commercial, account, and technical perspectives in one session.\n\nBest,\nMichael",
+      "date": "2026-08-24T11:00:00.000Z",
+      "to": {
+        "value": [
+          {
+            "address": "robert.martinez@zenithcorp.com",
+            "name": "Robert Martinez"
+          }
+        ],
+        "text": "\"Robert Martinez\" <robert.martinez@zenithcorp.com>"
+      },
+      "from": {
+        "value": [
+          {
+            "address": "michael.torres@izbasaas.com",
+            "name": "Michael Torres"
+          }
+        ],
+        "text": "\"Michael Torres\" <michael.torres@izbasaas.com>"
+      },
+      "cc": {
+        "value": [
+          {
+            "address": "elizabeth.anderson@zenithcorp.com",
+            "name": "Elizabeth Anderson"
+          },
+          {
+            "address": "james.taylor@zenithcorp.com",
+            "name": "James Taylor"
+          }
+        ],
+        "text": "\"Elizabeth Anderson\" <elizabeth.anderson@zenithcorp.com>, \"James Taylor\" <james.taylor@zenithcorp.com>"
+      },
+      "source": "email",
+      "cluster_topic": "expansion_and_upsell",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "positive",
+          "keywords_matched": [
+            "excellent"
+          ],
+          "patterns_matched": [],
+          "confidence": 0.89,
+          "sentiment_score": 0.5
+        },
+        {
+          "category": "buying_signals",
+          "subcategory": "strong",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "expansion_and_upsell",
+          "confidence": 0.95
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.92,
+        "is_relevant": true,
+        "reason": "Vendor VP responding to successful governance review and proposing pilot framework discussion."
+      },
+      "relevance_detection_complete": false
+    },
+    {
+      "thread_id": "20260825090000_UPatriciaW",
+      "text": "Hey @amanda.foster, as we wrap up the scoping phase — what does the onboarding process typically look like for a new business unit coming onto the platform? Our team wants to get a sense of the timeline and resource requirements so we can plan internally. Just looking for a high-level overview at this point.",
+      "date": "2026-08-25T09:00:00.000Z",
+      "headers": {
+        "channel_id": "CZenExp01",
+        "channel_name": "#zenith-expansion"
+      },
+      "to": {
+        "value": [
+          {
+            "id": "UAmandaF",
+            "address": "amanda.foster@izbasaas.com",
+            "name": "Amanda Foster"
+          }
+        ]
+      },
+      "from": {
+        "value": [
+          {
+            "id": "UPatriciaW",
+            "address": "patricia.white@zenithcorp.com",
+            "name": "Patricia White"
+          }
+        ]
+      },
+      "message_id": "20260825090000_UPatriciaW",
+      "source": "slack",
+      "cluster_topic": "customer_onboarding",
+      "classified_entities": [
+        {
+          "category": "sentiment_indicators",
+          "subcategory": "neutral",
+          "keywords_matched": [],
+          "patterns_matched": [],
+          "confidence": 0.82,
+          "sentiment_score": 0
+        }
+      ],
+      "cluster_info": [
+        {
+          "topic": "customer_onboarding",
+          "confidence": 0.88
+        }
+      ],
+      "relevance": {
+        "relevance_score": 0.85,
+        "is_relevant": true,
+        "reason": "Director asking for high-level onboarding process overview as part of scoping wrap-up."
+      },
+      "relevance_detection_complete": false
+    }
+  ],
+  "session_summary": {
+    "date_range": {
+      "first_message_date": "2026-07-31T09:00:00.000Z",
+      "last_message_date": "2026-08-25T09:00:00.000Z"
+    },
+    "active_threads": [
+      {
+        "thread_id": "email_20260731090000_robert",
+        "participants": [
+          {
+            "name": "Robert Martinez",
+            "email": "robert.martinez@zenithcorp.com"
+          },
+          {
+            "name": "Michael Torres",
+            "email": "michael.torres@izbasaas.com"
+          }
+        ]
+      },
+      {
+        "thread_id": "email_20260803100000_patricia",
+        "participants": [
+          {
+            "name": "Patricia White",
+            "email": "patricia.white@zenithcorp.com"
+          },
+          {
+            "name": "Amanda Foster",
+            "email": "amanda.foster@izbasaas.com"
+          }
+        ]
+      },
+      {
+        "thread_id": "email_20260804093000_james",
+        "participants": [
+          {
+            "name": "James Taylor",
+            "email": "james.taylor@zenithcorp.com"
+          },
+          {
+            "name": "Nina Sales",
+            "email": "sales@izbasaas.com"
+          }
+        ]
+      },
+      {
+        "thread_id": "20260805100000_UJamesT",
+        "participants": [
+          {
+            "name": "James Taylor",
+            "email": "james.taylor@zenithcorp.com"
+          },
+          {
+            "name": "Nina Sales",
+            "email": "sales@izbasaas.com"
+          }
+        ]
+      },
+      {
+        "thread_id": "email_20260807140000_elizabeth",
+        "participants": [
+          {
+            "name": "Elizabeth Anderson",
+            "email": "elizabeth.anderson@zenithcorp.com"
+          },
+          {
+            "name": "Michael Torres",
+            "email": "michael.torres@izbasaas.com"
+          }
+        ]
+      }
+    ],
+    "unresolved_issues": [
+      "Internal governance approval was delayed by one week due to CFO scheduling conflict, now rescheduled and completed.",
+      "Security questionnaire responses from IZBA compliance team are pending final delivery.",
+      "Scoping document has been finalized and approved by both sides, pending pilot proposal framework."
+    ],
+    "escalation_status": "informational",
+    "dominant_sentiment": "positive",
+    "key_events": [
+      "Robert Martinez initiated exploratory scoping discussions for the new Global Operations business unit.",
+      "Elizabeth Anderson expressed C-suite interest and requested executive-level strategic alignment discussion.",
+      "Technical demo was scheduled and conducted covering cross-regional data sync, admin console, and API capabilities.",
+      "Security questionnaire was submitted by Christopher Harris for compliance review as part of scoping.",
+      "James Taylor flagged internal approval delay due to governance committee postponement.",
+      "Scoping document was drafted, reviewed, and finalized with feedback from both customer and vendor teams.",
+      "Governance committee approved the expansion, prompting a wrap-up discussion request for pilot proposal next steps."
+    ],
+    "next_phase": "Pilot proposal and execution",
+    "end_story_triggered": false,
+    "narrative": "Zenith Corp's new Global Operations business unit progressed through exploratory scoping discussions with IZBA, including technical demos, security questionnaires, and a finalized scoping document, culminating in a successful governance committee approval despite a one-week internal delay."
+  }
+}
